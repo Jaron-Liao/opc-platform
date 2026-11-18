@@ -1,0 +1,74 @@
+【仓库基本信息】
+repository / repo  仓库
+Public  公开的
+main  主分支
+Commits  提交
+description  描述
+topics  话题/标签
+
+【顶部导航栏】
+Code  代码
+Issues  议题
+Pull requests  拉取请求/合并请求
+Agents  智能体
+Discussions  讨论
+Actions  自动化工作流
+Projects  项目
+Wiki  维基文档
+Security  安全
+quality  质量
+Insights  洞察/统计
+Settings  设置
+
+【操作按钮】
+Pin  置顶
+Watch  关注
+Fork  复刻/派生
+Star  收藏/点赞
+Branches  分支
+Tags  标签
+Go to file  跳转到文件
+Add file  添加文件
+Search  搜索
+
+【右侧边栏】
+About  关于
+website  网站
+Readme  自述文件
+Activity  活动/动态
+stars  星标数
+watching  关注人数
+forks  复刻数
+Releases  发布版本
+Deployments  部署
+Packages  软件包
+Contributors  贡献者
+
+【文件与文件夹】
+file  文件
+assets  资源/素材
+workflow(s)  工作流
+deploy  部署
+index  索引/首页
+
+【README 内容】
+Platform  平台
+AI (Artificial Intelligence)  人工智能
+development  开发
+technology  科技
+film / video  影视
+creation  创作
+comprehensive  综合的
+API (Application Programming Interface)  应用程序接口
+RAG (Retrieval-Augmented Generation)  检索增强生成
+framework  框架
+Agent  智能体/代理
+tool(s)  工具
+text-to-video  文生视频
+intelligent  智能的
+dubbing / voice-over  配音
+editing  剪辑
+
+【其他】
+Type / to search  输入以搜索
+No ... provided  未提供……
